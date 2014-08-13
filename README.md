@@ -22,10 +22,11 @@ Open the workspace and run the apps. You'll need to run on an actual iOS device,
 `what` reads from the shared keychain.
 
 Running `what` should output something similar to the log:
-`
+
+```
 2014-08-13 11:42:47.281 what[2628:60b] store1 key1 is 2014-08-13 02:42:38 +0000
 2014-08-13 11:42:47.283 what[2628:60b] store2 key1 is 2014-08-13 02:42:38 +0000
-`
+```
 
 
 
