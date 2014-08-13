@@ -4,7 +4,7 @@ A demo of using shared keychains, because there is a lot of misconception of wha
 
 
 ## Requirements
-run `pod install` to install UICKeyChainStore
+run `pod install` to install UICKeyChainStore.
 You will need to add the following App IDs to your Apple developer center profile
 - this.bundle.identifier.is
 - it.doesnt.matter.what
