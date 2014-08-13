@@ -1,0 +1,11 @@
+DerivedData/
+build/
+project.xcworkspace/
+xcuserdata/
+*.DS_Store
+*~
+tmp/
+*.xccheckout
+
+#cocoapods
+Pods/
