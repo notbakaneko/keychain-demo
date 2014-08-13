@@ -18,8 +18,11 @@ Only the `App ID Prefix` needs to be the same, this may be your Team ID.
 
 ## Running
 Open the workspace and run the apps. You'll need to run on an actual iOS device, not the Simulator, since the Simulator can troll you and make everything look OK when it's not ( ≖‿≖)
+
+
 `is` writes the `[NSDate date].description` to the shared keychain.
 `what` reads from the shared keychain.
+
 
 Running `what` should output something similar to the log:
 
